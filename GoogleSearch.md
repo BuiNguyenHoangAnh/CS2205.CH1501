@@ -42,4 +42,22 @@ Cú pháp: related:<địa chỉ trang web>
 Ví dụ: tìm kiếm các trang web tương tự với tuoitre.vn -> cú pháp: related:tuoitre.vn  
 ![image](https://user-images.githubusercontent.com/32384308/111495946-6c6c7200-8772-11eb-9412-b6e0281d5845.png)
 
-9. 
+9. Hỗ trợ chuyển đổi đơn vị tiền tệ  
+Cú pháp: <giá trị> <đơn vị> to <đơn vị muốn chuyển đổi>  
+hoặc  
+Cú pháp: <giá trị> <đơn vị> in <đơn vị muốn chuyển đổi>  
+Ví dụ: chuyển đổi $1 sang vnđ -> cú pháp: 1 usd to vnd  
+![image](https://user-images.githubusercontent.com/32384308/111496588-046a5b80-8773-11eb-8368-c966e62a3e5e.png)
+
+10. Tìm kiếm dựa trên định dạng file  
+Cú pháp: filetype:<định dạng file>  
+Ví dụ: tìm kiếm các file có định dạng pdf cho từ khóa "software"-> cú pháp: filetype:pdf  
+![image](https://user-images.githubusercontent.com/32384308/111497496-bace4080-8773-11eb-9cdb-7033fe8630eb.png)
+
+11. Tìm kiếm kết quả cho nhiều từ khóa cùng lúc
+Cú pháp: <từ khóa 1> OR <từ khóa 2> OR ...
+Ví dụ: tìm kiếm với các từ khóa "nón bảo hiểm", "tinh bột nghệ", "áo thun" -> cú pháp: nón bảo hiểm OR tinh bột nghệ OR áo thun  
+![image](https://user-images.githubusercontent.com/32384308/111498907-fc132000-8774-11eb-9c08-74d40b0968a2.png)
+
+
+12. 
