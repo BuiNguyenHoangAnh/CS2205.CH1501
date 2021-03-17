@@ -7,6 +7,10 @@ Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
 ![image](https://user-images.githubusercontent.com/32384308/111489542-cd914700-876c-11eb-9475-5c3b82bcb18e.png)
 
 3. Tính năng cơ bản: tìm kiếm theo nguyên bản từ khóa
-Đề khác phụ nhước điểm của tính năng ở mục 1. thì Google cung cấp tính năng tìm kiếm theo nguyên bản từ khóa
+Đề khác phụ nhước điểm của tính năng ở mục 1. thì Google cung cấp tính năng tìm kiếm theo nguyên bản từ khóa, có nghĩa là kết quả trả về sẽ đúng chính xác với từ khóa người dùng nhập vào.
+Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
+![image](https://user-images.githubusercontent.com/32384308/111489842-177a2d00-876d-11eb-8a0c-135ee4f0e8eb.png)
+
+Để sử dụng tính năng này, sau khi nhập từ khóa và bấm tìm kiếm, người dùng nhấp vào Công cụ (Tools) -> chọn Nguyên bản (Verbatim)
 3. Tìm kiếm bằng giọng nói
 4. Tìm kiếm bằng hình ảnh
