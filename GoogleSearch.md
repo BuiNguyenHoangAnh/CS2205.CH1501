@@ -18,8 +18,18 @@ Ví dụ: tìm kiếm với từ khóa "khoa học * tính"
 ![image](https://user-images.githubusercontent.com/32384308/111492429-3da0cc80-876f-11eb-85d2-4e4bdf1525f1.png)
 
 4. Dịch nhanh văn bản  
-Để dịch nhanh văn bản người dùng chỉ cần nhập theo cú pháp: <văn bản> into <ngôn ngữ muốn dịch sang>
-Ví dụ: dịch nhanh "computer science" sang tiếng Pháp thì nhập như sau: computer science into French
+Để dịch nhanh văn bản người dùng chỉ cần nhập theo cú pháp: <văn bản> into <ngôn ngữ muốn dịch sang>  
+Ví dụ: dịch nhanh "computer science" sang tiếng Pháp thì nhập như sau: computer science into French  
 ![image](https://user-images.githubusercontent.com/32384308/111493064-cd467b00-876f-11eb-8ef9-f45fe125ef1f.png)
 
-5. Tìm kiếm bằng hình ảnh
+5. Tìm kiếm nội dung từ một trang web được chỉ định  
+Cú pháp: <từ khóa> site: <địa chỉ trang web>  
+Ví dụ: tìm kiếm từ khóa "học phí" ở trang web nguồn là www.uit.edu.vn -> cú pháp: học phí site: www.uit.edu.vn  
+![image](https://user-images.githubusercontent.com/32384308/111493797-7a20f800-8770-11eb-999c-efeacabfcdbb.png)
+
+6. Định nghĩa từ khóa
+Cú pháp: define: <từ khóa>  
+Ví dụ: định nghĩa từ "computer science" -> cú pháp define: computer science  
+![image](https://user-images.githubusercontent.com/32384308/111494150-d126cd00-8770-11eb-9ca7-4489c7e5ef85.png)
+
+7. 
