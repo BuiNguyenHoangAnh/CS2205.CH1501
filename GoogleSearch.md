@@ -11,7 +11,7 @@ Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
 Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
 ![image](https://user-images.githubusercontent.com/32384308/111489842-177a2d00-876d-11eb-8a0c-135ee4f0e8eb.png)
 
-Để sử dụng tính năng này, sau khi nhập từ khóa và bấm tìm kiếm, người dùng nhấp vào Công cụ (Tools) -> chọn Nguyên bản (Verbatim) 
+Để sử dụng tính năng này, sau khi nhập từ khóa và bấm tìm kiếm, người dùng nhấp vào Công cụ (Tools) -> chọn Nguyên bản (Verbatim)  
 3. Tìm từ hoặc kí tự còn thiếu  
 Nếu quên hoặc không nhớ từ hoặc kí tự còn thiếu của từ khóa người dùng có thể dùng dấu * để thay thế  
 Ví dụ: tìm kiếm với từ khóa "khoa học * tính"
@@ -32,4 +32,14 @@ Cú pháp: define: <từ khóa>
 Ví dụ: định nghĩa từ "computer science" -> cú pháp define: computer science  
 ![image](https://user-images.githubusercontent.com/32384308/111494150-d126cd00-8770-11eb-9ca7-4489c7e5ef85.png)
 
-7. 
+7. Tính toán trên thanh tìm kiếm của google  
+Người dùng chỉ cần nhập phép toán vào thanh tìm kiếm của Google và nhấn search Google sẽ trả về kết quả. Hiện Google có thể hỗ trợ người dùng tính toán từ các phép toán đơn giản đến các phép toán nâng cao.  
+Ví dụ: tính kết quả phép toán 1 + cos(0)  
+![image](https://user-images.githubusercontent.com/32384308/111495028-8d809300-8771-11eb-85a3-6cb8498543e0.png)
+
+8. Tìm kiếm các trang web tương tự  
+Cú pháp: related:<địa chỉ trang web>  
+Ví dụ: tìm kiếm các trang web tương tự với tuoitre.vn -> cú pháp: related:tuoitre.vn  
+![image](https://user-images.githubusercontent.com/32384308/111495946-6c6c7200-8772-11eb-9412-b6e0281d5845.png)
+
+9. 
