@@ -60,4 +60,9 @@ Ví dụ: tìm kiếm với các từ khóa "nón bảo hiểm", "tinh bột ngh
 ![image](https://user-images.githubusercontent.com/32384308/111498907-fc132000-8774-11eb-9c08-74d40b0968a2.png)
 
 
-12. 
+12. Tìm kiếm giờ thế giới  
+Cú pháp: time:<địa điểm>
+Ví dụ: tìm kiếm giờ của Bangkok -> cú pháp: time:Bangkok  
+![image](https://user-images.githubusercontent.com/32384308/111499640-bacf4000-8775-11eb-9431-0914df8a3677.png)
+
+13. 
