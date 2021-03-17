@@ -61,8 +61,16 @@ Ví dụ: tìm kiếm với các từ khóa "nón bảo hiểm", "tinh bột ngh
 
 
 12. Tìm kiếm giờ thế giới  
-Cú pháp: time:<địa điểm>
+Cú pháp: time:<địa điểm>  
 Ví dụ: tìm kiếm giờ của Bangkok -> cú pháp: time:Bangkok  
 ![image](https://user-images.githubusercontent.com/32384308/111499640-bacf4000-8775-11eb-9431-0914df8a3677.png)
 
-13. 
+13. Loại bỏ khỏi kết quả tìm kiếm những nội dung không mong muốn  
+Ví dụ: tìm kiếm "giá vàng" ngoài trừ các tin tức có liên quan đến sjc -> cú pháp: giá vàng -sjc  
+![image](https://user-images.githubusercontent.com/32384308/111500617-c53e0980-8776-11eb-9e02-9556d393cb81.png)
+
+14. Tìm kiếm nội dung bằng hình ảnh  
+Người dùng upload ảnh của mình, Google sẽ hiển thị các thông tin liên quan đến nội dung của ảnh đó  
+Ví dụ: người dùng upload ảnh chụp hoa sen để tìm kiếm  
+![image](https://user-images.githubusercontent.com/32384308/111501085-3da4ca80-8777-11eb-97c1-deff81151a69.png)
+
