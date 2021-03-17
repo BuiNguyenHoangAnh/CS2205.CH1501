@@ -6,11 +6,20 @@ Google sẽ trả về tất cả các kết quả có liên quan đến từ kh
 Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
 ![image](https://user-images.githubusercontent.com/32384308/111489542-cd914700-876c-11eb-9475-5c3b82bcb18e.png)
 
-2. Tính năng cơ bản: tìm kiếm theo nguyên bản từ khóa
-Đề khác phụ nhước điểm của tính năng ở mục 1. thì Google cung cấp tính năng tìm kiếm theo nguyên bản từ khóa, có nghĩa là kết quả trả về sẽ đúng chính xác với từ khóa người dùng nhập vào.
+2. Tính năng cơ bản: tìm kiếm theo nguyên bản từ khóa  
+Đề khác phụ nhước điểm của tính năng ở mục 1. thì Google cung cấp tính năng tìm kiếm theo nguyên bản từ khóa, có nghĩa là kết quả trả về sẽ đúng chính xác với từ khóa người dùng nhập vào.  
 Ví dụ: tìm kiếm với từ khóa "shop quan ao nguyen dinh chieu"
 ![image](https://user-images.githubusercontent.com/32384308/111489842-177a2d00-876d-11eb-8a0c-135ee4f0e8eb.png)
 
-Để sử dụng tính năng này, sau khi nhập từ khóa và bấm tìm kiếm, người dùng nhấp vào Công cụ (Tools) -> chọn Nguyên bản (Verbatim)
-3. Tìm kiếm bằng giọng nói
-4. Tìm kiếm bằng hình ảnh
+Để sử dụng tính năng này, sau khi nhập từ khóa và bấm tìm kiếm, người dùng nhấp vào Công cụ (Tools) -> chọn Nguyên bản (Verbatim) 
+3. Tìm từ hoặc kí tự còn thiếu  
+Nếu quên hoặc không nhớ từ hoặc kí tự còn thiếu của từ khóa người dùng có thể dùng dấu * để thay thế  
+Ví dụ: tìm kiếm với từ khóa "khoa học * tính"
+![image](https://user-images.githubusercontent.com/32384308/111492429-3da0cc80-876f-11eb-85d2-4e4bdf1525f1.png)
+
+4. Dịch nhanh văn bản  
+Để dịch nhanh văn bản người dùng chỉ cần nhập theo cú pháp: <văn bản> into <ngôn ngữ muốn dịch sang>
+Ví dụ: dịch nhanh "computer science" sang tiếng Pháp thì nhập như sau: computer science into French
+![image](https://user-images.githubusercontent.com/32384308/111493064-cd467b00-876f-11eb-8ef9-f45fe125ef1f.png)
+
+5. Tìm kiếm bằng hình ảnh
