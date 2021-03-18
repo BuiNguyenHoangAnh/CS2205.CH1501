@@ -1,6 +1,6 @@
 # Minh họa cách sử dụng trang [PapersWithCode](https://paperswithcode.com)
 
-PapersWithCode là một trang web hỗ trợ thống kê và truy vấn các paper trong lĩnh vực Machine Learning. Trang cung cấp giao diện đơn giản, trực quan, dễ nhìn, cùng với mỗi paper đã được gắn với repo *chính chủ*, g
+PapersWithCode là một trang web hỗ trợ thống kê và truy vấn các paper trong lĩnh vực Machine Learning. Trang cung cấp giao diện đơn giản, trực quan, dễ nhìn, cùng với mỗi paper đã được gắn với repo *chính chủ*, easy-to-access!
 
 1. Truy cập [đường dẫn] đến trang web PapersWithCode
 
@@ -57,10 +57,7 @@ Quan trọng là tab Code hiển thị danh sách coding implementations của p
 ### Sử dụng trang Datasets 
 Tại đây sẽ hiển thị, tổng hợp thông tin về các dataset đã được public cũng như thống kê chúng đã được dùng trong paper nào, được đo benchmark trong những task nào. 
 
-![Screenshot from 2021-03-18 11-16-55](https://user-images.githubusercontent.com/25763738/111572585-77a7b800-87db-11eb-9fc1-d3a851f9f84e.png)
-
-### Thanks for viewing, here a meme!
-![unnamed](https://user-images.githubusercontent.com/25763738/111573646-7e372f00-87dd-11eb-965a-6dd93380776e.jpg)
+![Screenshot from 2021-03-18 11-16-39](https://user-images.githubusercontent.com/25763738/111573720-a45ccf00-87dd-11eb-8722-ea349ba0312b.png)
 
 
 ### Sử dụng trang Methods
@@ -75,4 +72,9 @@ Khi chọn một phương pháp tiếp cận thì trang web sẽ dẫn đến ph
 Ngoài ra còn có 1 số trang libraries / newsleter / Trends / Portal mà nếu người dùng quan tâm có thể tìm kiếm thêm. 
 
 ![Screenshot from 2021-03-18 11-23-28](https://user-images.githubusercontent.com/25763738/111573080-690dd080-87dc-11eb-9420-d781530bbe10.png)
+
+
+### Thanks for viewing, here a meme!
+![unnamed](https://user-images.githubusercontent.com/25763738/111573646-7e372f00-87dd-11eb-965a-6dd93380776e.jpg)
+
 
