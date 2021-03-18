@@ -74,7 +74,7 @@ Ngoài ra còn có 1 số trang libraries / newsleter / Trends / Portal mà nế
 ![Screenshot from 2021-03-18 11-23-28](https://user-images.githubusercontent.com/25763738/111573080-690dd080-87dc-11eb-9420-d781530bbe10.png)
 
 
-### Thanks for viewing, here a meme!
+### Thanks for viewing, here is a meme!
 ![unnamed](https://user-images.githubusercontent.com/25763738/111573646-7e372f00-87dd-11eb-965a-6dd93380776e.jpg)
 
 
