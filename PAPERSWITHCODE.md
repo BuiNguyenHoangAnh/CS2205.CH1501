@@ -35,7 +35,7 @@ Nếu người dùng chọn nút *See All* thì sẽ xem được chi tiết so 
 B) Tab Dataset
 Tab Dataset sẽ liệt kê các dataset đã được public có thể sử dụng / đo benchmark trong task hiện tại. 
 
-![Screenshot from 2021-03-18 11-20-44](https://user-images.githubusercontent.com/25763738/111572847-ff8dc200-87db-11eb-882e-10ad06092c9a.png)
+![Screenshot from 2021-03-18 11-20-44](https://user-images.githubusercontent.com/25763738/111573033-4ed3f280-87dc-11eb-87ce-efce6cbb3b8d.png)
 
 
 C) Tab Greatest papers with code 
