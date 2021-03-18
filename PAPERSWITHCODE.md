@@ -7,6 +7,9 @@ PapersWithCode là một trang web hỗ trợ thống kê và truy vấn các pa
 
 ### Sử dụng ô 'Search' để tìm kiếm Topic/Paper mình quan tâm 
 
+![Screenshot from 2021-03-18 11-11-49](https://user-images.githubusercontent.com/25763738/111572340-fc460680-87da-11eb-8797-76585fbdc079.png)
+
+
 ### Sử dụng trang Browse State-of-the-Art
 
 1. Chọn Browse State-of-the-Art ở thanh menu trên 
