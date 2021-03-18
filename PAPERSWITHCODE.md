@@ -59,6 +59,10 @@ Tại đây sẽ hiển thị, tổng hợp thông tin về các dataset đã đ
 
 ![Screenshot from 2021-03-18 11-16-55](https://user-images.githubusercontent.com/25763738/111572585-77a7b800-87db-11eb-9fc1-d3a851f9f84e.png)
 
+### Thanks for viewing, here a meme!
+![unnamed](https://user-images.githubusercontent.com/25763738/111573646-7e372f00-87dd-11eb-965a-6dd93380776e.jpg)
+
+
 ### Sử dụng trang Methods
 Tương tự như trang Task, trang Methods sẽ hiển thị dạng liệt kê các phương pháp tiếp cận trên các nhóm bài toán, tùy theo nhu cầu người dùng mà sẽ chọn phương pháp tiếp cận theo ý đồ của người dùng. 
 Khi chọn một phương pháp tiếp cận thì trang web sẽ dẫn đến phân cấp nhỏ hơn (nếu có) cùng một vài mô tả, thống kê về phương pháp đó. Sau đó trang sẽ hiển thị một số paper đang implement phương pháp đang xét. 
@@ -67,4 +71,8 @@ Khi chọn một phương pháp tiếp cận thì trang web sẽ dẫn đến ph
 
 
 =====
+
 Ngoài ra còn có 1 số trang libraries / newsleter / Trends / Portal mà nếu người dùng quan tâm có thể tìm kiếm thêm. 
+
+![Screenshot from 2021-03-18 11-23-28](https://user-images.githubusercontent.com/25763738/111573080-690dd080-87dc-11eb-9420-d781530bbe10.png)
+
