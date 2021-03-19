@@ -12,4 +12,10 @@ Cú pháp: author:<tên tác giả>
 Ví dụ: tìm kiếm theo tên tác giả Alexander J. Pak-> cú pháp author:alexander j pak  
 ![image](https://user-images.githubusercontent.com/32384308/111733038-89579100-88a9-11eb-866a-f412fa018a69.png)
 
+- Tìm kiếm dựa trên cụm từ trích dẫn  
+Cú pháp: "<trích dẫn>"
+Ví dụ: tìm kiếm với cụm từ trích dẫn "Graphene-based electrodes have been widely tested" -> cú pháp: "Graphene-based electrodes have been widely tested"  
+![image](https://user-images.githubusercontent.com/32384308/111762043-20850e80-88d3-11eb-9304-ccdd58d2aa26.png)
+
+- 
 ## 2. Cách sử dụng Google scholar cho việc quản lí các bài báo khoa học##  
