@@ -39,3 +39,9 @@ Ví dụ: tìm kiếm các tài liệu học thuật mà tiêu đề có chứa 
   - Bên phải mỗi kết quả tìm kiếm thường sẽ có link đến bản pdf của tài liệu  
   - Bên dưới mỗi kết quả tìm kiếm có các mục: biểu tượng ngôi sao (save tài liệu), biểu tượng dấu nháy kép (trích dẫn tài liệu), cited by ... (số người đã tham khảo nguồn tài liệu này), related articles (các tài liệu liên quan, thường là các tài liệu mà nguồn này tham khảo)  
 ## 2. Cách sử dụng Google scholar cho việc quản lí các bài báo khoa học##  
+Để có thể quản lí các bài báo khoa học trên Google scholar trước hết người dùng cần đăng kí tài khoản ở đây và đăng nhập.
+Cách thức đăng kí tham khảo tại http://www1.vnua.edu.vn/tapchi/Upload/Google-Scholar.pdf  
+- Các đưa bài báo đã xuất bản của mình vào Google scholar, người dùng làm như sau: click [+ Add] -> View all articles -> chọn bài báo -> Add  
+- Hoặc có thể thêm thủ công bằng cách: click Add -> Add article manually -> Nhập đầy đủ thông tin bài báo -> Save  
+- Xóa bài viết không phải của mình: Articles -> chọn bài viết -> Remove  
+- Chỉnh sửa bài viết: Articles -> chọn bài viết -> edit  
