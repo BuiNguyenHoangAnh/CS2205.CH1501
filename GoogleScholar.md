@@ -17,5 +17,15 @@ Cú pháp: "<trích dẫn>"
 Ví dụ: tìm kiếm với cụm từ trích dẫn "Graphene-based electrodes have been widely tested" -> cú pháp: "Graphene-based electrodes have been widely tested"  
 ![image](https://user-images.githubusercontent.com/32384308/111762043-20850e80-88d3-11eb-9304-ccdd58d2aa26.png)
 
+- Loại bỏ khỏi kết quả tìm kiếm những nội dung không mong muốn  
+Cú pháp: <nội dung tìm kiếm> -<nội dung muốn loại bỏ>  
+Ví dụ: tìm kiếm tất cả các tài liệu học thuật về testing ngoại trừ những nội dung liên quan đến software -> cú pháp: testing -software  
+![image](https://user-images.githubusercontent.com/32384308/111762575-bc167f00-88d3-11eb-9fa0-2ed17125d5bb.png)
+
+- Thêm vào kết quả tìm kiếm những nội dung mong muốn  
+Cú pháp: <nội dung tìm kiếm> +<nội dung muốn thêm vào>  
+Ví dụ: tìm kiếm tất cả các tài liệu học thuật về testing liên quan đến software -> cú pháp: testing +software  
+![image](https://user-images.githubusercontent.com/32384308/111763332-98a00400-88d4-11eb-8c50-ec3c36dec487.png)
+
 - 
 ## 2. Cách sử dụng Google scholar cho việc quản lí các bài báo khoa học##  
