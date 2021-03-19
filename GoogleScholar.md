@@ -27,5 +27,15 @@ Cú pháp: <nội dung tìm kiếm> +<nội dung muốn thêm vào>
 Ví dụ: tìm kiếm tất cả các tài liệu học thuật về testing liên quan đến software -> cú pháp: testing +software  
 ![image](https://user-images.githubusercontent.com/32384308/111763332-98a00400-88d4-11eb-8c50-ec3c36dec487.png)
 
-- 
+- Tìm kiếm các tài liệu học thuật mà tiêu đề có chứa từ khóa người dùng tìm  
+Cú pháp: intitle:<từ khóa>  
+Ví dụ: tìm kiếm các tài liệu học thuật mà tiêu đề có chứa "software testing" -> cú pháp: intitle:software testing  
+![image](https://user-images.githubusercontent.com/32384308/111800652-c1d58a00-88fe-11eb-9321-d1e8c74dd728.png)
+
+- Về giao diện hiển thị kết quả trên Google Scholar cũng có chút khác biệt so với giao diện hiển thị kết quả trên Google thuần  
+![image](https://user-images.githubusercontent.com/32384308/111803706-e1ba7d00-8901-11eb-9656-e8aa94bfc3a1.png)
+
+  - Cạnh bên trái của màn hình hiển thị là các mốc thời gian năm hỗ trợ cho người dùng dễ dàng tìm kiếm theo các mốc thời gian cụ thể  
+  - Bên phải mỗi kết quả tìm kiếm thường sẽ có link đến bản pdf của tài liệu  
+  - Bên dưới mỗi kết quả tìm kiếm có các mục: biểu tượng ngôi sao (save tài liệu), biểu tượng dấu nháy kép (trích dẫn tài liệu), cited by ... (số người đã tham khảo nguồn tài liệu này), related articles (các tài liệu liên quan, thường là các tài liệu mà nguồn này tham khảo)  
 ## 2. Cách sử dụng Google scholar cho việc quản lí các bài báo khoa học##  
