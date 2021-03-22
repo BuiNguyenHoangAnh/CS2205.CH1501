@@ -30,7 +30,7 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
   - Nguồn:  
 - ResearchGate
   - Lĩnh vực: kết nối các nhà nghiên cứu và thúc đẩy quá trình trao đổi kết quả, kiến thức và kinh nghiệm  
-  - Nguồn:  
+  - Nguồn: cộng đồng các nhà khoa học đóng góp  
 - Sci-Hub  
   - Lĩnh vực:  
   - Nguồn:  
