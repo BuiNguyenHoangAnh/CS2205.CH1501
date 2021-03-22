@@ -20,8 +20,8 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
   - Lĩnh vực: khoa học máy tính, kỹ thuật điện và điện tử  
   - Nguồn: tài liệu từ Viện Kỹ sư Điện và Điện tử (IEEE) và Cơ quan Kỹ thuật và Công nghệ  
 - ACM Digital Libary
-  - Lĩnh vực:  
-  - Nguồn:  
+  - Lĩnh vực: khoa học máy tính   
+  - Nguồn: sách, tạp chí, kỷ yếu hội nghị, bản tin, ... của ACM  
 - Springer
   - Lĩnh vực:  
   - Nguồn:  
