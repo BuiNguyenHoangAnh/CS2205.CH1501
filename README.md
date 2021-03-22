@@ -29,4 +29,4 @@
 - [Bài tập QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH](Mindmap.md)
 - [Bài tập QT13: SITE LƯU TRỮ BÀI BÁO KH](SiteLuuTruBBKH.md)
 - [Bài tập QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](GoogleScholar.md)
-
+- [Bài tập QT11:  TÌM KIẾM GOOGLE NÂNG CAO](GoogleSearch.md)
