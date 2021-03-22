@@ -27,10 +27,10 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
   - Nguồn: Nội dung thông tin được tập hợp độc quyền của nhà xuất bản Springer và các cá nhân đạt giải khoa học  
 - Elsevier
   - Lĩnh vực: y học và khoa học  
-  - Nguồn:  
+  - Nguồn: các bài báo của các nhà khoa học đó chính trang này xuất bản  
 - ResearchGate
   - Lĩnh vực: kết nối các nhà nghiên cứu và thúc đẩy quá trình trao đổi kết quả, kiến thức và kinh nghiệm  
   - Nguồn: cộng đồng các nhà khoa học đóng góp  
 - Sci-Hub  
-  - Lĩnh vực:  
+  - Lĩnh vực: mọi lĩnh vực  
   - Nguồn: tài liệu nghiên cứu và sách mà không quan tâm đến bản quyền    
