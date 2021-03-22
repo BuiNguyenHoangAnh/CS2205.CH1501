@@ -23,8 +23,8 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
   - Lĩnh vực: khoa học máy tính   
   - Nguồn: sách, tạp chí, kỷ yếu hội nghị, bản tin, ... của ACM  
 - Springer
-  - Lĩnh vực:  
-  - Nguồn:  
+  - Lĩnh vực: khoa học, nhân loại, kỹ thuật y tế  
+  - Nguồn: Nội dung thông tin được tập hợp độc quyền của nhà xuất bản Springer và các cá nhân đạt giải khoa học  
 - Elsevier
   - Lĩnh vực:  
   - Nguồn:  
