@@ -21,12 +21,15 @@
 =====
 # Bài tập
 
+- [Bài tập QT11:  TÌM KIẾM GOOGLE NÂNG CAO](GoogleSearch.md)
+- [Bài tập QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](GoogleScholar.md)
+- [Bài tập QT13: SITE LƯU TRỮ BÀI BÁO KH](SiteLuuTruBBKH.md)
+- [Bài tập QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH](Mindmap.md)
 - [Bài tập QT15: SỬ DỤNG OVERLEAF](OVERLEAF.md)
 - [Bài tập QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN](MENDELEY.md)
 - [Bài tập QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ](JOURNAL-CONFERENCE-RANKING.md) 
 - [Bài tập  QT18: SỬ DỤNG CONNECTEDPAPERS](CONNECTEDPAPERS.md)
 - [Bài tập QT19: SỬ DỤNG PAPERSWITHCODE](PAPERSWITHCODE.md)
-- [Bài tập QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH](Mindmap.md)
-- [Bài tập QT13: SITE LƯU TRỮ BÀI BÁO KH](SiteLuuTruBBKH.md)
-- [Bài tập QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](GoogleScholar.md)
-- [Bài tập QT11:  TÌM KIẾM GOOGLE NÂNG CAO](GoogleSearch.md)
+
+
+
