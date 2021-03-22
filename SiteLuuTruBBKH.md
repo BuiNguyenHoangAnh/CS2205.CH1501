@@ -33,4 +33,4 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
   - Nguồn: cộng đồng các nhà khoa học đóng góp  
 - Sci-Hub  
   - Lĩnh vực:  
-  - Nguồn:  
+  - Nguồn: tài liệu nghiên cứu và sách mà không quan tâm đến bản quyền    
