@@ -7,5 +7,5 @@ QT13: SITE LƯU TRỮ BÀI BÁO KH
 - Springer
 - Elsevier
 - ResearchGate
-- Sci-Hub
+- Sci-Hub  
 Điểm giống nhau của các site trên: Đều là nơi lưu trữ và là nguồn tìm kiếm các bài báo khoa học
