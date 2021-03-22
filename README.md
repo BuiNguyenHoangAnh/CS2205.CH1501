@@ -28,5 +28,5 @@
 - [Bài tập QT19: SỬ DỤNG PAPERSWITHCODE](PAPERSWITHCODE.md)
 - [Bài tập QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KH](Mindmap.md)
 - [Bài tập QT13: SITE LƯU TRỮ BÀI BÁO KH](SiteLuuTruBBKH.md)
-
+- [Bài tập QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR](GoogleScholar.md)
 
