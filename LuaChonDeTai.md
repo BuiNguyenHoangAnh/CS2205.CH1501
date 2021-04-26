@@ -1,3 +1,5 @@
+## QT30 - LỰA CHỌN ĐỀ TÀI
+--------
 - Research area: NLP
 - Các tạp chí liên quan: ACL
 - Research topic: word segmentation, machine translation, text simplification, automatic summarization,...
