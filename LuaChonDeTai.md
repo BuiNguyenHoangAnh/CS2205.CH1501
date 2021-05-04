@@ -2,9 +2,13 @@
 --------
 ## Research area:  
 - NLP
-## Các tạp chí/ hội nghị liên quan:  
-- [ACL](https://www.aclweb.org/portal/)  
-- ICASSP  
+## Các tạp chí/ hội nghị liên quan:
+- Tạp chí:    
+  - 
+- Hội nghị:   
+  - [ACL](https://www.aclweb.org/portal/) 
+  - EMNLP (rank A)
+  - IJCNLP (rank B)
 ## Research topic:  
 - Word segmentation  
 - Machine translation
