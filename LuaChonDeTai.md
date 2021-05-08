@@ -11,7 +11,7 @@
 - Tạp chí:    
   - [CORE2020](https://www.core.edu.au/) (rank A*)
 ## Research topic:  
-- nformation Extraction
+- Information Extraction
 - Information Retrieval and Text Mining
 - Question Answering
 - Semantics: Lexical, Sentence level, Textual Inference and Other areas 
@@ -19,3 +19,4 @@
 - Syntax: Tagging, Chunking and Parsing
 - Summarization
 ## Các bài toán liên quan:  
+Computational Sociolinguistics: A Survey ([pdf](https://www.aclweb.org/anthology/J16-3007.pdf)) (D Nguyen, AS Doğruöz, CP Rosé, F de Jong - Computational linguistics, 2016 - MIT Press)
