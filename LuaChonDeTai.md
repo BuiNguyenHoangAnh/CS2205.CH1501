@@ -11,10 +11,11 @@
 - Tạp chí:    
   - [CORE2020](https://www.core.edu.au/) (rank A*)
 ## Research topic:  
-- Word segmentation  
-- Machine translation
-- Text simplification  
-- Automatic summarization  
-- Sentiment analysis
-- ...
+- nformation Extraction
+- Information Retrieval and Text Mining
+- Question Answering
+- Semantics: Lexical, Sentence level, Textual Inference and Other areas 
+- Sentiment Analysis, Stylistic Analysis, and Argument Mining 
+- Syntax: Tagging, Chunking and Parsing
+- Summarization
 ## Các bài toán liên quan:  
