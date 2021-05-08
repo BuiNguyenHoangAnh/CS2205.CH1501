@@ -7,7 +7,7 @@
   - 
 - Hội nghị:   
   - [ACL](https://www.aclweb.org/portal/) (rank A*) 
-  - EMNLP (rank A)
+  - [EMNLP](https://2021.emnlp.org/) (rank A)
   - COLING (rank A)
   - IJCNLP (rank B)
 ## Research topic:  
