@@ -6,8 +6,9 @@
 - Tạp chí:    
   - 
 - Hội nghị:   
-  - [ACL](https://www.aclweb.org/portal/) 
+  - [ACL](https://www.aclweb.org/portal/) (rank A*) 
   - EMNLP (rank A)
+  - COLING (rank A)
   - IJCNLP (rank B)
 ## Research topic:  
 - Word segmentation  
