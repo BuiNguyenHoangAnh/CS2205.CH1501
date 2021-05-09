@@ -33,4 +33,4 @@
 
 - [WRITING: VIẾT 5-SENTENCE PARAGRAPH](https://github.com/BuiNguyenHoangAnh/CS2205.CH1501/blob/82b7724c79091a32e4085af6eb33a30f525f7b11/WRITING:%20VI%E1%BA%BET%205-SENTENCE%20PARAGRAPH.md)
 - https://github.com/BuiNguyenHoangAnh/CS2205.CH1501/blob/main/QT_proposal.pdf](https://github.com/BuiNguyenHoangAnh/CS2205.CH1501/blob/main/QT_proposal.pdf)
-
+- [QT30: CHỌN CHỦ ĐỀ NGHIÊN CỨU](L
