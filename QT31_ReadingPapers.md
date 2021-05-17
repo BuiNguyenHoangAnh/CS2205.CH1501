@@ -4,8 +4,8 @@ Link: https://journals.sagepub.com/doi/pdf/10.1177/1178222618792860
 ## Natural Language Processing of Social Media as Screening for Suicide Risk  
 
 Problem: Detecting someone's suicide risk from social media posts  
+This research want to detect quantifiable signals around suicide attempts, and estimate suicide risk automatically.  
 - Input: social media posts  
 - Output: whether or not the post was composed by someone who would go on to attempt suicide  
-This research want to detect quantifiable signals around suicide attempts, and estimate suicide risk automatically.  
   
-Big question: Applying deep learning to solve a natural language processing problems
+Questions: 
