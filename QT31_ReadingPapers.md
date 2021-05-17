@@ -15,7 +15,8 @@ Answer: In this research, leverage both supervised and unsupervised learning met
 Answer: Because there are some differences between male and female in psychology, in the scope of this research the authors only care about the common language comes across the genders.  
   
 **Method**: Using deep learning for analysis of language   
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/32384308/118488553-0be3bc00-b746-11eb-91a7-653f429a9af3.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/32384308/118488639-2453d680-b746-11eb-911f-ed609e1b4e3b.png)
+
 
 
 
