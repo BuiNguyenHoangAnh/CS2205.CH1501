@@ -3,18 +3,18 @@ Link: https://journals.sagepub.com/doi/pdf/10.1177/1178222618792860
   
 ## Natural Language Processing of Social Media as Screening for Suicide Risk  
 
-Problem: Detecting someone's suicide risk from social media posts  
+**Problem**: Detecting someone's suicide risk from social media posts  
 This research want to detect quantifiable signals around suicide attempts, and estimate suicide risk automatically.  
 - Input: social media posts  
 - Output: whether or not the post was composed by someone who would go on to attempt suicide  
   
-Question: Because of the limited amount of training data available for the task, how to prevent overfitting the model to the training data?  
+**Question**: Because of the limited amount of training data available for the task, how to prevent overfitting the model to the training data?  
 Answer: In this research, leverage both supervised and unsupervised learning methods.  
   
-Question: The majority of this dataset was female users, Can the model be sufficiently expressive to also capture information for males?
+**Question**: The majority of this dataset was female users, Can the model be sufficiently expressive to also capture information for males?
 Answer: Because there are some differences between male and female in psychology, in the scope of this research the authors only care about the common language comes across the genders.  
   
-Method: Using deep learning for analysis of language   
+**Method**: Using deep learning for analysis of language   
 ![Untitled Diagram](https://user-images.githubusercontent.com/32384308/118481510-c4593200-b73d-11eb-8b63-75065b0cde3c.png)
 
 
