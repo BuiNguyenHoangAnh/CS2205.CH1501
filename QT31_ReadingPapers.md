@@ -15,4 +15,6 @@ Question: The majority of this dataset was female users, Can the model be suffic
 Answer: Because there are some differences between male and female in psychology, in the scope of this research the authors only care about the common language comes across the genders.  
   
 Method: Using deep learning for analysis of language 
+![Untitled Diagram](https://user-images.githubusercontent.com/32384308/118481510-c4593200-b73d-11eb-8b63-75065b0cde3c.png)
+
 
